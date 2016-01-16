@@ -17,7 +17,7 @@ keywords:
   - skills
   - operator
 description: "It's a reflection from experience on who some of these 'people' who innovate have been, and a speculation about who they might be now and going forward. I said at the end of my previous post that I was looking for people in operational roles who are willing to invest time and effort in developing their skills for the brave new world of possibilities and challenges that we are heading into."
-datePublished: '2016-01-16T11:32:49.460Z'
+datePublished: '2016-01-16T11:32:49.479Z'
 dateModified: '2016-01-16T11:21:30.608Z'
 author:
   - name: Anne Marie McEwan
