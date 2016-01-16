@@ -17,8 +17,8 @@ keywords:
   - develop
   - reshaping
 description: "Digitization trends are reshaping the industrial world. The risk of disruption brings with it significant opportunities. BCG's Digitization Strategy Framework provides companies with the tools needed to capture new digitization opportunities. The framework consists of a diagnosis phase that helps industrial organizations set the basis for strategy development through understanding global trends, customer needs, and competitors' activities, and to evaluate current capabilities and gaps."
-datePublished: '2016-01-16T11:32:57.648Z'
-dateModified: '2016-01-16T11:32:57.459Z'
+datePublished: '2016-01-16T11:32:57.860Z'
+dateModified: '2016-01-16T11:32:57.648Z'
 author: []
 related:
   - score: 0.6945974231
