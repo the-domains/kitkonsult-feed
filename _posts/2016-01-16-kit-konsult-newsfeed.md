@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T11:32:43.012Z'
-dateModified: '2016-01-16T11:32:42.813Z'
+datePublished: '2016-01-16T11:32:43.098Z'
+dateModified: '2016-01-16T11:32:42.837Z'
 title: KIT Konsult Newsfeed
 author: []
 sourcePath: _posts/2016-01-16-kit-konsult-newsfeed.md
